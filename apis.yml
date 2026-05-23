@@ -1,0 +1,138 @@
+aid: day-zimmermann
+name: Day & Zimmermann
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/day-zimmermann/refs/heads/main/apis.yml
+type: Index
+position: Provider
+access: 1st-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Ammunition
+  - Architecture and Engineering
+  - Construction
+  - Defense
+  - Engineering Services
+  - Government Services
+  - Industrial Services
+  - Maintenance
+  - Munitions
+  - Nuclear Services
+  - Power
+  - Staffing
+  - Workforce Solutions
+created: '2026-05-22'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+kind: company
+description: >-
+  Day & Zimmermann is a privately held, family-owned diversified industrial
+  services company founded in 1901 and headquartered in Philadelphia,
+  Pennsylvania. The company operates across four primary business segments —
+  Maintenance & Construction (power, nuclear, fossil, renewable, and chemical
+  plants), Munitions (ammunition manufacturing, storage, and demilitarization
+  for the U.S. military, including operation of the Lake City Army Ammunition
+  Plant), Government Services (security, EOD, facility management, and
+  architecture/engineering for federal agencies), and Workforce Solutions
+  (staffing and talent placement via Yoh). The Yoh family has controlled the
+  company since 1961; Harold L. Yoh III serves as Chairman and CEO. Day &
+  Zimmermann reported approximately $2.7 billion in revenue in 2023 with
+  roughly 43,000–52,000 employees across approximately 150 global locations.
+  Day & Zimmermann does not publish any public developer APIs; its business is
+  delivered through long-cycle service contracts, government-owned
+  contractor-operated (GOCO) facilities, and direct client engagements.
+apis: []
+common:
+  - type: Website
+    url: https://www.dayzim.com
+  - type: About
+    url: https://www.dayzim.com/who-we-are/
+  - type: Leadership
+    url: https://www.dayzim.com/who-we-are/leadership/
+  - type: History
+    url: https://www.dayzim.com/who-we-are/history/
+  - type: Maintenance and Construction
+    url: https://www.dayzim.com/maintenance-and-construction/
+  - type: Munitions
+    url: https://www.dayzim.com/munitions/
+  - type: Government Services
+    url: https://www.dayzim.com/government-services/
+  - type: Workforce Solutions
+    url: https://www.yoh.com
+  - type: Careers
+    url: https://www.dayzim.com/careers/
+  - type: News
+    url: https://www.dayzim.com/news-and-events/
+  - type: Contact
+    url: https://www.dayzim.com/contact-us/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/day-&-zimmermann
+  - type: Wikipedia
+    url: https://en.wikipedia.org/wiki/Day_%26_Zimmermann
+segments:
+  - name: Maintenance and Construction
+    description: >-
+      Maintenance, construction, modification, and outage services for nuclear,
+      fossil, and renewable power generation, plus chemical and industrial
+      plants. Capabilities include welding, scaffolding, insulation,
+      radiological protection, and turnkey plant services.
+  - name: Munitions
+    description: >-
+      Ammunition manufacturing, loading, assembly, packing, storage, and
+      demilitarization for the U.S. Department of Defense. Day & Zimmermann
+      operates the Lake City Army Ammunition Plant in Independence, Missouri
+      under a government-owned contractor-operated (GOCO) arrangement, producing
+      small caliber ammunition (5.56mm, 7.62mm, .50 caliber) for the U.S. Army.
+      Additional product lines include medium caliber rounds, warheads, fuzes,
+      and direct/indirect fire munitions.
+  - name: Government Services
+    description: >-
+      Integrated security services, explosive ordnance disposal (EOD), facility
+      management, architecture, engineering, and commissioning for U.S.
+      government agencies and federal installations.
+  - name: Workforce Solutions (Yoh)
+    description: >-
+      STEM staffing and talent placement operated through Yoh, a Day &
+      Zimmermann company. Service lines include IT, engineering, life sciences,
+      and healthcare staffing, along with RPO (Recruitment Process
+      Outsourcing), MSP (Managed Service Provider), and EOR (Employer of
+      Record) workforce models. Yoh maintains 6,000+ active contractors.
+subsidiaries:
+  - name: Yoh
+    description: STEM staffing and workforce solutions subsidiary.
+    url: https://www.yoh.com
+  - name: Day & Zimmermann NPS
+    description: Nuclear power services division.
+  - name: SOC LLC
+    description: Government security services subsidiary.
+customers:
+  - name: U.S. Army
+  - name: U.S. Department of Defense
+  - name: U.S. Department of Energy
+  - name: U.S. Nuclear Regulatory Commission-licensed utilities
+  - name: Investor-owned utilities
+  - name: Chemical and petrochemical operators
+  - name: Federal civilian agencies
+facilities:
+  - name: Lake City Army Ammunition Plant
+    location: Independence, Missouri
+    role: Operator (GOCO)
+    output: Small caliber ammunition for the U.S. Army
+  - name: Corporate Headquarters
+    location: Philadelphia, Pennsylvania
+ownership:
+  type: Privately held
+  family: Yoh family (since 1961)
+  chairman: Harold L. Yoh III
+  founded: 1901
+  founders:
+    - Charles Day
+    - Kern Dodge
+    - John Zimmermann (joined 1907)
+scale:
+  revenue: ~$2.7B (2023)
+  employees: ~43,000–52,000
+  locations: ~150 global
+  ranking: Ranked among Engineering News-Record Top 500 Design Firms
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
